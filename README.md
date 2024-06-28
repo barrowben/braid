@@ -23,7 +23,7 @@ To set up the Conda environment for running `preprocessing.py` on a unix machine
     conda activate braid
     ```
 
-4. Make `preprocessing.py` editable:
+4. Make `preprocessing.py` executable:
     ```bash
     chmod +x preprocessing.py
     ```
