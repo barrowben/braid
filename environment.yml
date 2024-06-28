@@ -1,6 +1,5 @@
 name: braid
 channels:
-  - robostack
   - conda-forge
 dependencies:
   - bzip2=1.0.8=h93a5062_5
@@ -40,4 +39,3 @@ dependencies:
   - tzdata=2024a=h0c530f3_0
   - wheel=0.43.0=pyhd8ed1ab_1
   - xz=5.2.6=h57fd34a_0
-prefix: /Users/benedictbarrow/miniforge3/envs/braid
